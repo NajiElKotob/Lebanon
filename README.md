@@ -16,7 +16,7 @@ One single Unique Identification Number (UID) to track Lebanese and anyone who e
 
 -----
 
-# e-Souk
+## e-Souk
 
 ###### References
 * [Dubai Virtual Commercial City](https://vccdubai.ae/) - Dubai Virtual Commercial City
@@ -68,6 +68,16 @@ One single Unique Identification Number (UID) to track Lebanese and anyone who e
 ## Indicators
 
 -----
+
+## Food
+
+### Food Safety
+
+###### References
+* [AUB food safety initiative: MoU with FAFS-AUB and Ministry of Industry](https://www.aub.edu.lb/fafs/news/Pages/2019_food-safety-initiative-MoU-FAFS-MoI.aspx) - aub.edu.lb
+
+-----
+
 
 
 ## Government Audit

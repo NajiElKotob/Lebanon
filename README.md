@@ -21,6 +21,12 @@ What suggested in [Law Number 241, dated 22/10/2012](http://www.legallaw.ul.edu.
 * [EU National Identification Number](https://docs.microsoft.com/en-us/microsoft-365/compliance/eu-national-identification-number?view=o365-worldwide) - Microsoft
 * [National identification number](https://en.wikipedia.org/wiki/National_identification_number) - Wikipedia
 
+-----
+## e-Gov
+
+
+###### References
+* [e-Government in Lebanon - an assessment and the action plan](http://www.oecd.org/mena/governance/36975668.pdf) - OMSAR - March 2006
 
 -----
 

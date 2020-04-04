@@ -1,11 +1,12 @@
 # Lebanon
-Contemporary and Modern Lebanon 💚
+Contemporary and Modern Lebanon 💚 
 
 ```
-Scattered Ideas
+Scattered Ideas [Work in Process...]
 ```
 
 ## Unique Identification Number
+One single Unique Identification Number (UID) to track Lebanese and anyone who enters Lebanon for any reason (work, tourist, etc.). All the existing IDs (NSSF Number, TIN#, etc.) will be linked to UID.
 
 ###### References
 * [EU National Identification Number](https://docs.microsoft.com/en-us/microsoft-365/compliance/eu-national-identification-number?view=o365-worldwide) - Microsoft.com

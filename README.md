@@ -11,7 +11,7 @@ Scattered Ideas
 ### Unique Identification Number
 One single Unique Identification Number (UID) to track Lebanese and anyone who enters Lebanon for any reason (work, tourist, etc.). All the existing IDs (NSSF Number, TIN#, etc.) will be linked to UID.
 
-What suggested in [Law Number 241, dated 22/10/2012](http://www.legallaw.ul.edu.lb/Law.aspx?lawId=233448) could be impractical, government will not issue an ID for non Lebanese. One standard smart format could be a good solution.
+What suggested in [Law Number 241, dated 22/10/2012](http://www.legallaw.ul.edu.lb/Law.aspx?lawId=233448) could be impractical, government will not issue IDs for non Lebanese. One standard smart format could be a good solution.
 
 ### Bio
 

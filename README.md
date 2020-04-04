@@ -66,6 +66,11 @@ One single Unique Identification Number (UID) to track Lebanese and anyone who e
 -----
 
 ## Indicators
+### CPI
+### EGDI
+### EoDB
+### AI
+
 
 -----
 

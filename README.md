@@ -1,8 +1,10 @@
 # Lebanon
 Contemporary and Modern Lebanon 💚 
 
+Version 0.0.1 - WIP
+
 ```
-Scattered Ideas [Work in Process...]
+Scattered Ideas 
 ```
 ## Identity
 
@@ -29,6 +31,14 @@ What suggested in [Law Number 241, dated 22/10/2012](http://www.legallaw.ul.edu.
 
 -----
 
+## Poverty
+
+-----
+
+## Environment
+
+
+
 -----
 ## Travel
 
@@ -38,6 +48,10 @@ What suggested in [Law Number 241, dated 22/10/2012](http://www.legallaw.ul.edu.
 
 ## Transportation
 
+### Ride-hailing
+### Taxi
+### Public Transportation
+### Marine Transportation
 
 -----
 

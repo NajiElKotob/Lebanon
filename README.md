@@ -35,6 +35,9 @@ Scattered Ideas
 
 ### e-Voting
 
+###### References
+* [تربية وطنية - المواطن والانتخابات - أنظمة الانتخاب](https://www.youtube.com/watch?v=EV92NsfshNM&list=PL_aiKCsGozdPipD6jIlJn1-Ju-5kZjbaW&index=5) - TL
+
 ### IoE (The Internet of Everything)
 
 

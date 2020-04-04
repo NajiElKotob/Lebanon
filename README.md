@@ -50,6 +50,10 @@ What suggested in [Law Number 241, dated 22/10/2012](http://www.legallaw.ul.edu.
 ### Sustainable Energy
 Sustainable Energy is one which is able to meet the growing demand of today's people without compromising the demand of the people that would require it in future. All renewable energy sources like solar, wind, geothermal, hydropower, wave and tidal power are forms of sustainable energy. [Conserve Energy Future](https://www.conserve-energy-future.com/isrenewableenergysustainable.php)
 
+### Smart meters 
+Smart meters put consumers in control of their energy use, allowing them to adopt energy efficiency measures that can help save money on their energy bills and offset price increases. [Smart meters: a guide (gov.uk)](https://www.gov.uk/guidance/smart-meters-how-they-work)
+
+
 
 -----
 

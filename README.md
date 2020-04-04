@@ -1,7 +1,7 @@
 # Lebanon
 Contemporary and Modern Lebanon 💚 
 
-Version 0.0.1 - WIP
+Version 0.0.2 - WIP
 
 ```
 Scattered Ideas 
@@ -43,6 +43,21 @@ What suggested in [Law Number 241, dated 22/10/2012](http://www.legallaw.ul.edu.
 
 ## Environment
 
+-----
+
+## Energy
+
+### Sustainable Energy
+Sustainable Energy is one which is able to meet the growing demand of today's people without compromising the demand of the people that would require it in future. All renewable energy sources like solar, wind, geothermal, hydropower, wave and tidal power are forms of sustainable energy. [Conserve Energy Future](https://www.conserve-energy-future.com/isrenewableenergysustainable.php)
+
+
+-----
+
+## Agriculture
+
+### Smart Farming
+Smart Farming is a farming management concept using modern technology to increase the quantity and quality of agricultural products. Farmers in the 21st century have access to GPS, soil scanning, data management, and Internet of Things technologies. By precisely measuring variations within a field and adapting the strategy accordingly, farmers can greatly increase the effectiveness of pesticides and fertilizers, and use them more selectively. Similarly, using Smart Farming techniques, farmers can better monitor the needs of individual animals and adjust their nutrition correspondingly, thereby preventing disease and enhancing herd health. [Family Farming Knowledge Platform (FAO)](http://www.fao.org/family-farming/detail/en/c/897026/)
+
 
 
 -----
@@ -62,6 +77,7 @@ What suggested in [Law Number 241, dated 22/10/2012](http://www.legallaw.ul.edu.
 -----
 
 ## Gaz and Oil
+
 
 
 -----

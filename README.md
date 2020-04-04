@@ -8,12 +8,12 @@ Scattered Ideas [Work in Process...]
 ## Unique Identification Number
 One single Unique Identification Number (UID) to track Lebanese and anyone who enters Lebanon for any reason (work, tourist, etc.). All the existing IDs (NSSF Number, TIN#, etc.) will be linked to UID.
 
-
+What suggested in [Law Number 241, dated 22/10/2012](http://www.legallaw.ul.edu.lb/Law.aspx?lawId=233448) could be impractical, government will not issue an ID for non Lebanese. 
 
 ###### References
-* [EU National Identification Number](https://docs.microsoft.com/en-us/microsoft-365/compliance/eu-national-identification-number?view=o365-worldwide) - Microsoft.com
-* [National identification number](https://en.wikipedia.org/wiki/National_identification_number) - Wikipedia
 * [Unique Identification Number for every citizen](http://www.legallaw.ul.edu.lb/Law.aspx?lawId=233448) - ul.edu.lb
+* [EU National Identification Number](https://docs.microsoft.com/en-us/microsoft-365/compliance/eu-national-identification-number?view=o365-worldwide) - Microsoft
+* [National identification number](https://en.wikipedia.org/wiki/National_identification_number) - Wikipedia
 
 
 -----
@@ -83,6 +83,14 @@ One single Unique Identification Number (UID) to track Lebanese and anyone who e
 ### EoDB
 ### AI
 
+
+-----
+
+## Moneytary System
+
+### Banks
+### OMT
+### e-Currency
 
 -----
 

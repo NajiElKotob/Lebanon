@@ -74,6 +74,11 @@ Smart Farming is a farming management concept using modern technology to increas
 ###### References
 * [Agricultural Education](https://www.ffa.org/agricultural-education/) - National FFA Organization, ffa.org
 
+## Economic
+
+
+###### References
+* [Feedback on H.E. Raoul Rahmeh](https://twitter.com/RaoulNehme/status/1243541119285309449) - Naji El Kotob
 
 
 ## Education

@@ -63,6 +63,8 @@ Smart meters put consumers in control of their energy use, allowing them to adop
 Smart Farming is a farming management concept using modern technology to increase the quantity and quality of agricultural products. Farmers in the 21st century have access to GPS, soil scanning, data management, and Internet of Things technologies. By precisely measuring variations within a field and adapting the strategy accordingly, farmers can greatly increase the effectiveness of pesticides and fertilizers, and use them more selectively. Similarly, using Smart Farming techniques, farmers can better monitor the needs of individual animals and adjust their nutrition correspondingly, thereby preventing disease and enhancing herd health. [Family Farming Knowledge Platform (FAO)](http://www.fao.org/family-farming/detail/en/c/897026/)
 
 
+-----
+## R&D (Research and Development)
 
 -----
 ## Travel

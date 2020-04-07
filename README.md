@@ -195,3 +195,8 @@ Smart Farming is a farming management concept using modern technology to increas
 -----
 
 ## NGOs
+
+
+###### References
+* [Do you have these policies and systems in your NGO?](https://www.fundsforngos.org/free-resources-for-ngos/policies-systems-ngo/) - fundsforngos.org
+

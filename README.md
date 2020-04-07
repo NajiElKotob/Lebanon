@@ -1,7 +1,7 @@
 # Lebanon
 Contemporary and Modern Lebanon 💚 
 
-Version 0.0.3 - WIP
+Version 0.0.4 - WIP
 
 ```
 Scattered Ideas 
@@ -44,6 +44,13 @@ What suggested in [Law Number 241, dated 22/10/2012](http://www.legallaw.ul.edu.
 -----
 
 ## Poverty and Disability
+
+### Poverty
+Poverty is measured by comparing a person’s or family’s income to a set poverty threshold or minimum amount of income needed to cover basic needs. People whose income falls under their threshold are considered poor [How Is Poverty Measured?](https://www.irp.wisc.edu/resources/how-is-poverty-measured/)
+
+###### References
+* [How Is Poverty Measured?](https://www.irp.wisc.edu/resources/how-is-poverty-measured/) - Institute for Research on Poverty, irp.wisc.edu
+
 
 -----
 

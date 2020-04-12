@@ -155,9 +155,13 @@ Smart Farming is a farming management concept using modern technology to increas
 
 ## Indicators
 ### CPI
+
 ### EGDI
+
 ### EoDB
+
 ### AI
+According to ["Government Artificial Intelligence Readiness Index 2019"](https://www.oxfordinsights.com/ai-readiness2019) Lebanon ranks 112/194 and scores 3.487/10
 
 
 -----

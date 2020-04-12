@@ -169,7 +169,12 @@ According to ["Government Artificial Intelligence Readiness Index 2019"](https:/
 ## Moneytary System
 
 ### Banks
+List of banks published by BDL [www.bccl.gov.lb/publications/lebanese-bank-list](http://www.bccl.gov.lb/publications/lebanese-bank-list/)
+
 ### OMT
+
+### Online Payments 
+
 ### e-Currency
 
 -----

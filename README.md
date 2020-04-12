@@ -206,4 +206,8 @@ Smart Farming is a farming management concept using modern technology to increas
 * [موقع وزارة الداخلية والبلديات اللبنانية](http://www.interior.gov.lb/) - interior.gov.lb 
 * [النسخة التجريبية الأولى لبوابة الحكومة الإلكترونية في لبنان](http://www.portal.gov.lb/) - portal.gov.lb 
 * [رئاسة مجلس الوزراء](http://www.pcm.gov.lb/) - pcm.gov.lb
-* [الوكالة الوطنية للإعلام](http://www.nna-leb.gov.lb/) - nna-leb.gov.lb 
+* [الوكالة الوطنية للإعلام](http://www.nna-leb.gov.lb/) - nna-leb.gov.lb
+* [مكتب وزير الدولة لشؤون التنمية الإدارية - دولتي](http://www.dawlati.gov.lb/) - dawlati.gov.lb 
+* [المديرية العامة للأحوال الشخصية](https://www.dgcs.gov.lb/) - dgcs.gov.lb
+* [The Lebanese Parliament](https://www.lp.gov.lb/) - lp.gov.lb
+* [Ministry of Finance](http://www.finance.gov.lb) - finance.gov.lb

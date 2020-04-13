@@ -197,10 +197,12 @@ List of banks published by BDL [www.bccl.gov.lb/publications/lebanese-bank-list]
 
 
 ## Government Audit
-
+Checks and balances, principle of government under which separate branches are empowered to prevent actions by other branches and are induced to share power. Checks and balances are applied primarily in constitutional governments [Checks and balances](https://www.britannica.com/topic/checks-and-balances).
 
 ###### References
 * [What is a Governmental Audit?](https://www.aicpa.org/interestareas/governmentalauditquality/information-on-governmental-audits.html) - AICPA 
+* [Checks and balances](https://www.britannica.com/topic/checks-and-balances) - britannica.com
+
 -----
 
 ## NGOs

@@ -220,3 +220,6 @@ List of banks published by BDL [www.bccl.gov.lb/publications/lebanese-bank-list]
 * [المديرية العامة للأحوال الشخصية](https://www.dgcs.gov.lb/) - dgcs.gov.lb
 * [The Lebanese Parliament](https://www.lp.gov.lb/) - lp.gov.lb
 * [Ministry of Finance](http://www.finance.gov.lb) - finance.gov.lb
+
+## الجريدة الرسمية
+* [البحث في الجريدة الرسمية](http://www.legallaw.ul.edu.lb/OfficialJournal.aspx)

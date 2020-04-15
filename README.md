@@ -1,7 +1,7 @@
 # Lebanon
 Contemporary and Modern Lebanon 💚 
 
-Version 0.0.5 - WIP
+Version 0.0.6 - WIP
 
 ```
 Scattered Ideas 
@@ -222,6 +222,13 @@ Checks and balances, principle of government under which separate branches are e
 * [المديرية العامة للأحوال الشخصية](https://www.dgcs.gov.lb/) - dgcs.gov.lb
 * [The Lebanese Parliament](https://www.lp.gov.lb/) - lp.gov.lb
 * [Ministry of Finance](http://www.finance.gov.lb) - finance.gov.lb
+* [رئاسة الجمهورية اللبنانية (Presidential Palace)](http://www.presidency.gov.lb/) - presidency.gov.lb 
+* [وزارة الخارجية والمغتربين](https://www.mfa.gov.lb/) - mfa.gov.lb 
+* [The Lebanese Army](https://www.lebarmy.gov.lb/) - lebarmy.gov.lb
+* [وزارة الصحة العامة](https://www.moph.gov.lb/) - moph.gov.lb 
+* [Ogero](https://www.ogero.gov.lb/) - ogero.gov.lb
+* [Banque Du Liban](https://www.bdl.gov.lb/) - bdl.gov.lb
+* [Establishment of the Water of Beirut and Mount Lebanon (EBML)](https://ebml.gov.lb/) - ebml.gov.lb *
 
 ## الجريدة الرسمية
 * [البحث في الجريدة الرسمية](http://www.legallaw.ul.edu.lb/OfficialJournal.aspx)

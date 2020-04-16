@@ -229,6 +229,14 @@ Checks and balances, principle of government under which separate branches are e
 * [Ogero](https://www.ogero.gov.lb/) - ogero.gov.lb
 * [Banque Du Liban](https://www.bdl.gov.lb/) - bdl.gov.lb
 * [Establishment of the Water of Beirut and Mount Lebanon (EBML)](https://ebml.gov.lb/) - ebml.gov.lb *
+* [تعاونية موظفي الدولة](http://www.mfe.gov.lb/) - mfe.gov.lb
+* [BCCL: Banking Control Commission of Lebanon](http://www.bccl.gov.lb/) - bccl.gov.lb
+* [وزارة التربية والتعليم العالي](https://www.mehe.gov.lb/) - mehe.gov.lb 
+* [Lebanese Nationality Program](http://lebanity.gov.lb/) - lebanity.gov.lb
+* [وزارة الزراعة](http://www.agriculture.gov.lb/) - agriculture.gov.lb
+* [المديرية العامة للجمارك اللبنانية](https://www.lebanesecustoms.gov.lb) - lebanesecustoms.gov.lb
+* [Lebanese Petroleum Administration](https://www.lpa.gov.lb/) - lpa.gov.lb
+* [وزارة البيئة](http://www.moe.gov.lb/) - moe.gov.lb
 
 ## الجريدة الرسمية
 * [البحث في الجريدة الرسمية](http://www.legallaw.ul.edu.lb/OfficialJournal.aspx)

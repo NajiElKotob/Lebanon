@@ -120,6 +120,9 @@ Smart Farming is a farming management concept using modern technology to increas
 
 ## Technologies
 
+## Internet
+Three Submarine cables connected to Lebanon; CADMOS, BERYTAR and IMEWE [Submarine Cable Map](https://www.submarinecablemap.com/#/country/lebanon)
+
 ### e-Health
 
 ### e-Voting

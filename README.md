@@ -220,6 +220,7 @@ Checks and balances, principle of government under which separate branches are e
 * [BCCL: Banking Control Commission of Lebanon](http://www.bccl.gov.lb/) - bccl.gov.lb
 * [Banque Du Liban](https://www.bdl.gov.lb/) - bdl.gov.lb
 * [Council for Development and Reconstruction](http://www.cdr.gov.lb/) - cdr.gov.lb
+* [المديرية العامة للدفاع المدني](http://www.civildefense.gov.lb/) - civildefense.gov.lb 
 * [Capital Markets Authority](https://www.cma.gov.lb/) - cma.gov.lb
 * [Lebanese National Higher Conservatory of Music](https://www.conservatory.gov.lb/) - conservatory.gov.lb
 * [مكتب وزير الدولة لشؤون التنمية الإدارية - دولتي](http://www.dawlati.gov.lb/) - dawlati.gov.lb 
@@ -239,6 +240,7 @@ Checks and balances, principle of government under which separate branches are e
 * [تعاونية موظفي الدولة](http://www.mfe.gov.lb/) - mfe.gov.lb
 * [وزارة البيئة](http://www.moe.gov.lb/) - moe.gov.lb
 * [وزارة الصحة العامة](https://www.moph.gov.lb/) - moph.gov.lb
+* [National Commission for Lebanese Women](https://nclw.gov.lb/) - nclw.gov.lb
 * [National Employment Office](http://neo.gov.lb/) - neo.gov.lb
 * [الوكالة الوطنية للإعلام](http://www.nna-leb.gov.lb/) - nna-leb.gov.lb
 * [Ogero](https://www.ogero.gov.lb/) - ogero.gov.lb

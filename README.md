@@ -8,6 +8,10 @@ Scattered Ideas
 ```
 
 -----
+
+* [Lebanon in Numbers](https://github.com/NajiElKotob/Lebanon-in-Numbers/blob/master/README.md) - Open Data Platforms, Knowledge & Analysis and Indicators.
+
+-----
 ## e-Gov
 
 ### Identity

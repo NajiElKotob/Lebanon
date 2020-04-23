@@ -1,7 +1,7 @@
 # Lebanon
 Contemporary and Modern Lebanon 💚 
 
-Version 0.0.7 - WIP
+Version 0.0.8 - WIP
 
 ```
 Scattered Ideas 
@@ -219,14 +219,19 @@ Checks and balances, principle of government under which separate branches are e
 * [وزارة الزراعة](http://www.agriculture.gov.lb/) - agriculture.gov.lb
 * [BCCL: Banking Control Commission of Lebanon](http://www.bccl.gov.lb/) - bccl.gov.lb
 * [Banque Du Liban](https://www.bdl.gov.lb/) - bdl.gov.lb
+* [Administration of Statistics (CAS)](http://www.cas.gov.lb/) - cas.gov.lb  
 * [Council for Development and Reconstruction](http://www.cdr.gov.lb/) - cdr.gov.lb
+* [Central Inspection](http://www.cib.gov.lb/ar) - cib.gov.lb
 * [المديرية العامة للدفاع المدني](http://www.civildefense.gov.lb/) - civildefense.gov.lb 
 * [Capital Markets Authority](https://www.cma.gov.lb/) - cma.gov.lb
 * [Lebanese National Higher Conservatory of Music](https://www.conservatory.gov.lb/) - conservatory.gov.lb
+* [Customs Administration (Trade Statistics)](http://www.customs.gov.lb/Trade_Statistics/Monthly/Monthly_Statistics.aspx) - customs.gov.lb
 * [مكتب وزير الدولة لشؤون التنمية الإدارية - دولتي](http://www.dawlati.gov.lb/) - dawlati.gov.lb 
 * [المديرية العامة للأحوال الشخصية](https://www.dgcs.gov.lb/) - dgcs.gov.lb
 * [Establishment of the Water of Beirut and Mount Lebanon (EBML)](https://ebml.gov.lb/) - ebml.gov.lb
 * [Ministry of Finance](http://www.finance.gov.lb) - finance.gov.lb
+* [IDAL](https://investinlebanon.gov.lb/en/lebanon_at_a_glance/lebanon_in_figures) - investinlebanon.gov.lb
+* [Lebanese Agricultural Research Institute (LARI)](http://www.lari.gov.lb/) - lari.gov.lb
 * [وزارة العمل](https://www.labor.gov.lb/) - labor.gov.lb 
 * [Lebanese Nationality Program](http://lebanity.gov.lb/) - lebanity.gov.lb
 * [The Lebanese Army](https://www.lebarmy.gov.lb/) - lebarmy.gov.lb
@@ -239,6 +244,7 @@ Checks and balances, principle of government under which separate branches are e
 * [وزارة الخارجية والمغتربين](https://www.mfa.gov.lb/) - mfa.gov.lb 
 * [تعاونية موظفي الدولة](http://www.mfe.gov.lb/) - mfe.gov.lb
 * [وزارة البيئة](http://www.moe.gov.lb/) - moe.gov.lb
+    * [Air Quality Index](http://erml.moe.gov.lb/AQIPage.aspx?menuId=9) - erml.moe.gov.lb
 * [وزارة الصحة العامة](https://www.moph.gov.lb/) - moph.gov.lb
 * [National Commission for Lebanese Women](https://nclw.gov.lb/) - nclw.gov.lb
 * [National Employment Office](http://neo.gov.lb/) - neo.gov.lb

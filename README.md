@@ -1,7 +1,7 @@
 # Lebanon
 Contemporary and Modern Lebanon 💚 
 
-Version 0.0.8 - WIP
+Version 0.0.9 - WIP
 
 ```
 Scattered Ideas 
@@ -234,6 +234,7 @@ Checks and balances, principle of government under which separate branches are e
 * [المديرية العامة للدفاع المدني](http://www.civildefense.gov.lb/) - civildefense.gov.lb 
 * [Capital Markets Authority](https://www.cma.gov.lb/) - cma.gov.lb
 * [Lebanese National Higher Conservatory of Music](https://www.conservatory.gov.lb/) - conservatory.gov.lb
+* [الموقع الرسمي للسجل التجاري](http://cr.justice.gov.lb/) - cr.justice.gov.lb 
 * [Customs Administration (Trade Statistics)](http://www.customs.gov.lb/Trade_Statistics/Monthly/Monthly_Statistics.aspx) - customs.gov.lb
 * [مكتب وزير الدولة لشؤون التنمية الإدارية - دولتي](http://www.dawlati.gov.lb/) - dawlati.gov.lb 
 * [المديرية العامة للأحوال الشخصية](https://www.dgcs.gov.lb/) - dgcs.gov.lb

@@ -239,7 +239,9 @@ Checks and balances, principle of government under which separate branches are e
 * [مكتب وزير الدولة لشؤون التنمية الإدارية - دولتي](http://www.dawlati.gov.lb/) - dawlati.gov.lb 
 * [المديرية العامة للأحوال الشخصية](https://www.dgcs.gov.lb/) - dgcs.gov.lb
 * [Establishment of the Water of Beirut and Mount Lebanon (EBML)](https://ebml.gov.lb/) - ebml.gov.lb
+* [EDL كهرباء لبنان](http://www.edl.gov.lb/) - edl.gov.lb 
 * [Ministry of Finance](http://www.finance.gov.lb) - finance.gov.lb
+* [وزارة الصناعة](http://www.industry.gov.lb/) - industry.gov.lb 
 * [IDAL](https://investinlebanon.gov.lb/en/lebanon_at_a_glance/lebanon_in_figures) - investinlebanon.gov.lb
 * [Lebanese Agricultural Research Institute (LARI)](http://www.lari.gov.lb/) - lari.gov.lb
 * [وزارة العمل](https://www.labor.gov.lb/) - labor.gov.lb 
@@ -264,7 +266,7 @@ Checks and balances, principle of government under which separate branches are e
 * [رئاسة مجلس الوزراء](http://www.pcm.gov.lb/) - pcm.gov.lb
 * [النسخة التجريبية الأولى لبوابة الحكومة الإلكترونية في لبنان](http://www.portal.gov.lb/) - portal.gov.lb 
 * [رئاسة الجمهورية اللبنانية (Presidential Palace)](http://www.presidency.gov.lb/) - presidency.gov.lb 
-
+* [Zahle](http://www.zahle.gov.lb) - zahle.gov.lb
 
 ## الجريدة الرسمية
 * [البحث في الجريدة الرسمية](http://www.legallaw.ul.edu.lb/OfficialJournal.aspx)

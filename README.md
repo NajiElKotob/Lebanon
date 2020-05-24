@@ -109,6 +109,16 @@ Smart Farming is a farming management concept using modern technology to increas
 ## Travel
 
 ### e-Visa
+e-Visa allows government to take place entirely in a virtual environment and fully automate the whole process. Everything is done with the help of the Internet: 
+1. Visa applications and supporting documents are submitted online.
+1. Payments are made online.
+1. Decision on the application is communicated online.
+1. Data mining, statistics and knowledge discovery.
+1. Less error-prone and more efficient.
+
+###### References
+* [The benefits of e-Visas, and how to overcome implementation challenges](https://blogs.worldbank.org/digital-development/benefits-e-visas-and-how-overcome-implementation-challenges) - The World Bank Group | worldbank.org
+
 
 -----
 

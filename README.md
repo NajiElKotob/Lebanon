@@ -21,25 +21,21 @@ One single Unique Identification Number (UID) to track Lebanese and anyone who e
 
 What suggested in [Law Number 241, dated 22/10/2012](http://www.legallaw.ul.edu.lb/Law.aspx?lawId=233448) could be impractical, government will not issue IDs for non Lebanese. One standard smart format could be a good solution.
 
-
+#### Smart ID
+e-identity and digital signatures can be implemented using a number of technolgoies ex. "In Estonia, every person can provide digital signatures using their ID-card, Mobile-ID or Smart-ID, so they can safely identify themselves and use e-services."[e-identity](https://e-estonia.com/solutions/e-identity/id-card/)
 
 ###### References
 * [Unique Identification Number for every citizen](http://www.legallaw.ul.edu.lb/Law.aspx?lawId=233448) - ul.edu.lb
 * [EU National Identification Number](https://docs.microsoft.com/en-us/microsoft-365/compliance/eu-national-identification-number?view=o365-worldwide) - Microsoft
 * [National identification number](https://en.wikipedia.org/wiki/National_identification_number) - Wikipedia
 * [Reply to PM Hassan Diab](https://twitter.com/KotobNaji/status/1255616572133126144) - Twitter
-
-###### References
 * [e-Government in Lebanon - an assessment and the action plan](http://www.oecd.org/mena/governance/36975668.pdf) - OMSAR - March 2006
-
-
-
-
 
 
 -----
 
 ## e-Souk
+
 
 ###### References
 * [Dubai Virtual Commercial City](https://vccdubai.ae/) - Dubai Virtual Commercial City

@@ -243,10 +243,14 @@ Checks and balances, principle of government under which separate branches are e
 * [Central Inspection](http://www.cib.gov.lb/ar) - cib.gov.lb
 * [المديرية العامة للدفاع المدني](http://www.civildefense.gov.lb/) - civildefense.gov.lb 
 * [Capital Markets Authority](https://www.cma.gov.lb/) - cma.gov.lb
+* [Court of Accounts](http://www.coa.gov.lb/) - coa.gov.lb
 * [Lebanese National Higher Conservatory of Music](https://www.conservatory.gov.lb/) - conservatory.gov.lb
-* [الموقع الرسمي للسجل التجاري](http://cr.justice.gov.lb/) - cr.justice.gov.lb 
+* [الموقع الرسمي للسجل التجاري](http://cr.justice.gov.lb/) - cr.justice.gov.lb
+* [مجلس الخدمة المدنية](http://www.csb.gov.lb) - csb.gov.lb
+* [Ministry of Culture](http://culture.gov.lb) - http://culture.gov.lb
 * [Customs Administration (Trade Statistics)](http://www.customs.gov.lb/Trade_Statistics/Monthly/Monthly_Statistics.aspx) - customs.gov.lb
-* [مكتب وزير الدولة لشؤون التنمية الإدارية - دولتي](http://www.dawlati.gov.lb/) - dawlati.gov.lb 
+* [مكتب وزير الدولة لشؤون التنمية الإدارية - دولتي](http://www.dawlati.gov.lb/) - dawlati.gov.lb
+* [Directorate General of Civil Aviation (DGCA)](https://www.dgca.gov.lb) - dgca.gov.lb
 * [المديرية العامة للأحوال الشخصية](https://www.dgcs.gov.lb/) - dgcs.gov.lb
 * [Establishment of the Water of Beirut and Mount Lebanon (EBML)](https://ebml.gov.lb/) - ebml.gov.lb
 * [EDL كهرباء لبنان](http://www.edl.gov.lb/) - edl.gov.lb 
@@ -273,6 +277,7 @@ Checks and balances, principle of government under which separate branches are e
 * [الوكالة الوطنية للإعلام](http://www.nna-leb.gov.lb/) - nna-leb.gov.lb
 * [Ogero](https://www.ogero.gov.lb/) - ogero.gov.lb
 * [Radio Liban](http://radioliban.gov.lb/) - radioliban.gov.lb
+* [مركز مشاريع ودراسات القطاع](http://www.studies.gov.lb) - studies.gov.lb 
 * [رئاسة مجلس الوزراء](http://www.pcm.gov.lb/) - pcm.gov.lb
 * [النسخة التجريبية الأولى لبوابة الحكومة الإلكترونية في لبنان](http://www.portal.gov.lb/) - portal.gov.lb 
 * [رئاسة الجمهورية اللبنانية (Presidential Palace)](http://www.presidency.gov.lb/) - presidency.gov.lb 

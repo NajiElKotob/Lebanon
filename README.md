@@ -1,7 +1,7 @@
 # Lebanon
 Contemporary and Modern Lebanon 💚 
 
-Version 0.1.10 - WIP
+Version 0.1.12 - WIP
 
 ```
 Scattered Ideas 
@@ -129,7 +129,7 @@ e-Visa allows government to take place entirely in a virtual environment and ful
 
 ## Technologies
 
-## Internet
+### Internet
 Three Submarine cables connected to Lebanon; CADMOS, BERYTAR and IMEWE [Submarine Cable Map](https://www.submarinecablemap.com/#/country/lebanon)
 
 ### e-Health
@@ -141,6 +141,15 @@ Three Submarine cables connected to Lebanon; CADMOS, BERYTAR and IMEWE [Submarin
 
 ### IoE (The Internet of Everything)
 
+### National Data Center (NDC)
+
+#### Compliance and Security Standards 
+- General Data Protection Regulation (GDPR)
+- Cloud Security Alliance (CSA) STAR Certification
+- International Electrotechnical Commission (IEC) 27018
+- Service Organization Controls (SOC) 1, 2, and 3
+- UK Government G-Cloud
+- ISACA
 
 -----
 

@@ -255,6 +255,7 @@ Checks and balances, principle of government under which separate branches are e
 * [Establishment of the Water of Beirut and Mount Lebanon (EBML)](https://ebml.gov.lb/) - ebml.gov.lb
 * [EDL كهرباء لبنان](http://www.edl.gov.lb/) - edl.gov.lb 
 * [Ministry of Finance](http://www.finance.gov.lb) - finance.gov.lb
+* [High Council for Privatization and PPP](http://hcp.gov.lb/) - hcp.gov.lb
 * [بوابة المديرية العامة للتعليم العالي](http://www.higher-edu.gov.lb/) - higher-edu.gov.lb
 * [وزارة الصناعة](http://www.industry.gov.lb/) - industry.gov.lb 
 * [IDAL](https://investinlebanon.gov.lb/en/lebanon_at_a_glance/lebanon_in_figures) - investinlebanon.gov.lb
@@ -262,6 +263,7 @@ Checks and balances, principle of government under which separate branches are e
 * [وزارة العمل](https://www.labor.gov.lb/) - labor.gov.lb 
 * [Lebanese Nationality Program](http://lebanity.gov.lb/) - lebanity.gov.lb
 * [The Lebanese Army](https://www.lebarmy.gov.lb/) - lebarmy.gov.lb
+* [The Lebanese Standards Institution (LIBNOR)](http://www.libnor.gov.lb/) - libnor.gov.lb
 * [The Lebanese Parliament](https://www.lp.gov.lb/) - lp.gov.lb
 * [Lebanese Petroleum Administration](https://www.lpa.gov.lb/) - lpa.gov.lb
 * [المديرية العامة للجمارك اللبنانية](https://www.lebanesecustoms.gov.lb) - lebanesecustoms.gov.lb

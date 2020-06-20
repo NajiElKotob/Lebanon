@@ -255,6 +255,7 @@ Checks and balances, principle of government under which separate branches are e
 * [Establishment of the Water of Beirut and Mount Lebanon (EBML)](https://ebml.gov.lb/) - ebml.gov.lb
 * [EDL كهرباء لبنان](http://www.edl.gov.lb/) - edl.gov.lb 
 * [Ministry of Finance](http://www.finance.gov.lb) - finance.gov.lb
+* [بوابة المديرية العامة للتعليم العالي](http://www.higher-edu.gov.lb/) - higher-edu.gov.lb
 * [وزارة الصناعة](http://www.industry.gov.lb/) - industry.gov.lb 
 * [IDAL](https://investinlebanon.gov.lb/en/lebanon_at_a_glance/lebanon_in_figures) - investinlebanon.gov.lb
 * [Lebanese Agricultural Research Institute (LARI)](http://www.lari.gov.lb/) - lari.gov.lb
@@ -272,6 +273,7 @@ Checks and balances, principle of government under which separate branches are e
 * [وزارة البيئة](http://www.moe.gov.lb/) - moe.gov.lb
     * [Air Quality Index](http://erml.moe.gov.lb/AQIPage.aspx?menuId=9) - erml.moe.gov.lb
 * [وزارة الصحة العامة](https://www.moph.gov.lb/) - moph.gov.lb
+* [Ministry of Tourism](http://mot.gov.lb/) - mot.gov.lb
 * [National Commission for Lebanese Women](https://nclw.gov.lb/) - nclw.gov.lb
 * [National Employment Office](http://neo.gov.lb/) - neo.gov.lb
 * [الوكالة الوطنية للإعلام](http://www.nna-leb.gov.lb/) - nna-leb.gov.lb
@@ -280,7 +282,8 @@ Checks and balances, principle of government under which separate branches are e
 * [مركز مشاريع ودراسات القطاع](http://www.studies.gov.lb) - studies.gov.lb 
 * [رئاسة مجلس الوزراء](http://www.pcm.gov.lb/) - pcm.gov.lb
 * [النسخة التجريبية الأولى لبوابة الحكومة الإلكترونية في لبنان](http://www.portal.gov.lb/) - portal.gov.lb 
-* [رئاسة الجمهورية اللبنانية (Presidential Palace)](http://www.presidency.gov.lb/) - presidency.gov.lb 
+* [رئاسة الجمهورية اللبنانية (Presidential Palace)](http://www.presidency.gov.lb/) - presidency.gov.lb
+* [Ministry of Public Works and Transport](http://www.transportation.gov.lb) - transportation.gov.lb
 * [Zahle](http://www.zahle.gov.lb) - zahle.gov.lb
 
 ## الجريدة الرسمية

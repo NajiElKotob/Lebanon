@@ -285,3 +285,8 @@ Checks and balances, principle of government under which separate branches are e
 
 ## الجريدة الرسمية
 * [البحث في الجريدة الرسمية](http://www.legallaw.ul.edu.lb/OfficialJournal.aspx)
+
+
+## Terms and Definition
+* [Government Purchases](https://www.investopedia.com/terms/g/governmentpurchases.asp) - Government purchases are expenditures on goods and services by federal, state, and local governments. The combined total of this spending, excluding transfer payments and interest on the debt, is a key factor in determining a nation's gross domestic product (GDP). 
+

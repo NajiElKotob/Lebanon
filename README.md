@@ -1,7 +1,7 @@
 # Lebanon
 Contemporary and Modern Lebanon 💚 
 
-Version 0.1.12 - WIP
+Version 0.1.14 - WIP
 
 ```
 Scattered Ideas 
@@ -35,7 +35,7 @@ e-identity and digital signatures can be implemented using a number of technolgo
 -----
 
 ## e-Souk
-
+A solution based on public–private partnership (PPP) where two or more public and private sectors work together to provide a "low cost" national e-souq for Lebanese and foreign nationals. The platforms should be based on Lebanese companies with open data and continuous open audit. Taxes should be applied based different factors without any upfront costs (more about this later). e-Souk should solve the problems of remote work, fresh money, pollution, GDP,...
 
 ###### References
 * [Dubai Virtual Commercial City](https://vccdubai.ae/) - Dubai Virtual Commercial City

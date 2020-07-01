@@ -129,12 +129,21 @@ e-Visa allows government to take place entirely in a virtual environment and ful
 
 ## Technologies
 
+### Security
+
+#### CERT (Cyber Incident Response Centre)
+"A National CERT represents a dedicated IT security team that helps a country to mitigate and prevent major incidents and helps to protect its valuable assets, and it is also a centralized coordination point for IT security issues within the country (Point of Contact) and a centralized and specialized handling of and response to IT incidents Expertise at hand to support and assist the users to quickly recover from security incidents. It is also dealing with legal issues and preserving evidence in the event of a lawsuit, and stimulating cooperation within the constituency on IT security (awareness building) and keeps track of developments in the security field." [TRA](http://www.tra.gov.lb/SubPage.aspx?pageid=3161)
+
 ### Internet
 Three Submarine cables connected to Lebanon; CADMOS, BERYTAR and IMEWE [Submarine Cable Map](https://www.submarinecablemap.com/#/country/lebanon)
+
+
 
 ### e-Health
 
 ### e-Voting
+
+
 
 ###### References
 * [تربية وطنية - المواطن والانتخابات - أنظمة الانتخاب](https://www.youtube.com/watch?v=EV92NsfshNM&list=PL_aiKCsGozdPipD6jIlJn1-Ju-5kZjbaW&index=5) - TL

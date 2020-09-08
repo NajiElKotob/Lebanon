@@ -266,6 +266,7 @@ Checks and balances, principle of government under which separate branches are e
 * [Ministry of Finance](http://www.finance.gov.lb) - finance.gov.lb
 * [High Council for Privatization and PPP](http://hcp.gov.lb/) - hcp.gov.lb
 * [بوابة المديرية العامة للتعليم العالي](http://www.higher-edu.gov.lb/) - higher-edu.gov.lb
+* [IMPACT ](https://impact.cib.gov.lb/) - impact.cib.gov.lb
 * [وزارة الصناعة](http://www.industry.gov.lb/) - industry.gov.lb 
 * [IDAL](https://investinlebanon.gov.lb/en/lebanon_at_a_glance/lebanon_in_figures) - investinlebanon.gov.lb
 * [Lebanese Agricultural Research Institute (LARI)](http://www.lari.gov.lb/) - lari.gov.lb

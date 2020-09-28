@@ -164,6 +164,8 @@ Three Submarine cables connected to Lebanon; CADMOS, BERYTAR and IMEWE [Submarin
 
 ## Data Transparency
 
+* [Access to Information Day - Sep 28](https://en.unesco.org/commemorations/accesstoinformationday/)
+
 -----
 
 ## Security

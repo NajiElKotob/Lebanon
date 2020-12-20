@@ -264,7 +264,8 @@ Checks and balances, principle of government under which separate branches are e
 * [Directorate General of Civil Aviation (DGCA)](https://www.dgca.gov.lb) - dgca.gov.lb
 * [المديرية العامة للأحوال الشخصية](https://www.dgcs.gov.lb/) - dgcs.gov.lb
 * [Establishment of the Water of Beirut and Mount Lebanon (EBML)](https://ebml.gov.lb/) - ebml.gov.lb
-* [EDL كهرباء لبنان](http://www.edl.gov.lb/) - edl.gov.lb 
+* [EDL كهرباء لبنان](http://www.edl.gov.lb/) - edl.gov.lb
+* [المعهد الوطني للادارة](http://www.ena.gov.lb/) - ena.gov.lb
 * [Ministry of Finance](http://www.finance.gov.lb) - finance.gov.lb
 * [High Council for Privatization and PPP](http://hcp.gov.lb/) - hcp.gov.lb
 * [بوابة المديرية العامة للتعليم العالي](http://www.higher-edu.gov.lb/) - higher-edu.gov.lb

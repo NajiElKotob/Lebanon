@@ -126,6 +126,7 @@ e-Visa allows government to take place entirely in a virtual environment and ful
 
 ### Finance and Accounting
 * [IFRS](https://www.ifrs.org/) - International Financial Reporting Standards
+* [XBRL](https://www.xbrl.org/) - XBRL (eXtensible Business Reporting Language) is a freely available and global framework for exchanging business information. 
 
 -----
 

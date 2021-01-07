@@ -122,6 +122,13 @@ e-Visa allows government to take place entirely in a virtual environment and ful
 
 -----
 
+## Standards
+
+### Finance and Accounting
+* [IFRS](https://www.ifrs.org/) - International Financial Reporting Standards
+
+-----
+
 ## Gaz and Oil
 
 

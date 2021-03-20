@@ -51,7 +51,7 @@ Poverty is measured by comparing a person’s or family’s income to a set pove
 ###### References
 * [How Is Poverty Measured?](https://www.irp.wisc.edu/resources/how-is-poverty-measured/) - Institute for Research on Poverty, irp.wisc.edu
 * [How and Why the SPM and Official Poverty Estimates Differ](https://www.ssa.gov/policy/docs/ssb/v75n3/v75n3p55.html) - Benjamin Bridges and Robert V. Gesumaria (ssa.gov)
-
+* [How the Census Bureau Measures Poverty](https://www.census.gov/topics/income-poverty/poverty/guidance/poverty-measures.html) - census.gov
 
 -----
 

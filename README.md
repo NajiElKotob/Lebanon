@@ -87,9 +87,13 @@ Smart Farming is a farming management concept using modern technology to increas
 
 ###### References
 * [Feedback on H.E. Raoul Rahmeh](https://twitter.com/RaoulNehme/status/1243541119285309449) - Naji El Kotob
+-----
 
 
 ## Education
+
+### Modern Education
+* [10 reasons why Finland's education system is the best in the world](https://www.weforum.org/agenda/2018/09/10-reasons-why-finlands-education-system-is-the-best-in-the-world)
 
 ### Interactive Virtual Classes
 

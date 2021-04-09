@@ -1,7 +1,7 @@
-# Lebanon
+# Hello Lebanon
 Contemporary and Modern Lebanon 💚 
 
-Version 0.1.15 - WIP
+Version 0.1.16 - WIP
 
 ```
 Scattered Ideas 
@@ -67,6 +67,8 @@ Sustainable Energy is one which is able to meet the growing demand of today's pe
 ### Smart meters 
 Smart meters put consumers in control of their energy use, allowing them to adopt energy efficiency measures that can help save money on their energy bills and offset price increases. [Smart meters: a guide (gov.uk)](https://www.gov.uk/guidance/smart-meters-how-they-work)
 
+###### References
+* [Energy terminology](https://www.aemc.gov.au/energy-system/energy-terminology) - aemc.gov.au
 
 
 -----

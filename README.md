@@ -1,10 +1,9 @@
 # Hello Lebanon
 Contemporary and Modern Lebanon 💚 
 
-Version 0.1.16 - WIP
 
 ```
-Scattered Ideas 
+Scattered Ideas | Version 0.1.16 - WIP
 ```
 
 -----

@@ -24,6 +24,7 @@ What suggested in [Law Number 241, dated 22/10/2012](http://www.legallaw.ul.edu.
 e-identity and digital signatures can be implemented using a number of technolgoies ex. "In Estonia, every person can provide digital signatures using their ID-card, Mobile-ID or Smart-ID, so they can safely identify themselves and use e-services."[e-identity](https://e-estonia.com/solutions/e-identity/id-card/)
 
 ###### References
+* [مرسوم رقم 168 تاريخ 17 شباط سنة 2017 تحديد قواعد وإجراءات اعتماد رقم تعريف موحد لكل مواطن أمام الإدارات والمؤسسات العامة والبلديات وسائر اشخاص القانون العام](http://pcm.gov.lb/archive/j2017/j9/wfm/m168.htm)
 * [Electronic identity management in Estonia between market and state governance](https://link.springer.com/article/10.1007/s12394-010-0044-0) - springer.com
 * [Unique Identification Number for every citizen](http://www.legallaw.ul.edu.lb/Law.aspx?lawId=233448) - ul.edu.lb
 * [EU National Identification Number](https://docs.microsoft.com/en-us/microsoft-365/compliance/eu-national-identification-number?view=o365-worldwide) - Microsoft

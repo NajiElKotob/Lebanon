@@ -23,6 +23,7 @@ What suggested in [Law Number 241, dated 22/10/2012](http://www.legallaw.ul.edu.
 - Fixed Length of Characters
 - Immutable
 - Control Digits (Checksum)
+- SLTR (Single Lifetime Reference)
 - Alphanumeric (The Standard ASCII Characters)
 
 #### Smart ID
